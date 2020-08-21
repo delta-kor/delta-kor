@@ -2,7 +2,7 @@
 Welcome!  
 I'm Delta, Frontend developer from <img src="https://image.flaticon.com/icons/svg/197/197582.svg" width="13px" height="13px"> Busan, Korea.   
    
-![Delta's github stats](https://github-readme-stats.vercel.app/api?username=delta-kor&hide=contribs&count_private=true&show_icons=true)
+![Delta's github stats](https://github-readme-stats.vercel.app/api?username=delta-kor&hide=contribs,stars&count_private=true&show_icons=true)
 
 ## 📚 Codes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delta-kor&layout=compact)]()<br><br>
