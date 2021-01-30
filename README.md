@@ -20,6 +20,6 @@ I'm Delta, Frontend developer from Busan, Korea.
 
 ## 📋 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-message-template)](https://github.com/delta-kor/kakao-message-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=xhat)](https://github.com/delta-kor/kakao-database)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=xhat)](https://github.com/delta-kor/babb)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=xhat)](https://github.com/delta-kor/icarus-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-database)](https://github.com/delta-kor/kakao-database)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=babb)](https://github.com/delta-kor/babb)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=icarus-server)](https://github.com/delta-kor/icarus-server)
