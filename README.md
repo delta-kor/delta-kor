@@ -1,6 +1,6 @@
 ### 🤩 Hi! Nice to see you.
 Welcome!  
-I'm Delta, Frontend developer from <img src="https://image.flaticon.com/icons/svg/197/197582.svg" width="13px" height="13px"> Busan, Korea.   
+I'm Delta, Frontend developer from Busan, Korea.   
    
 ![Delta's github stats](https://github-readme-stats.vercel.app/api?username=delta-kor&hide=contribs,stars&count_private=true&show_icons=true)
 
@@ -20,4 +20,6 @@ I'm Delta, Frontend developer from <img src="https://image.flaticon.com/icons/sv
 
 ## 📋 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-message-template)](https://github.com/delta-kor/kakao-message-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=xhat)](https://github.com/delta-kor/xhat)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=xhat)](https://github.com/delta-kor/kakao-database)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=xhat)](https://github.com/delta-kor/babb)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=xhat)](https://github.com/delta-kor/icarus-server)
