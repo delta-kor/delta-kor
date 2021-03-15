@@ -20,5 +20,5 @@ Welcome!
 ## 📋 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-message-template)](https://github.com/delta-kor/kakao-message-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-database)](https://github.com/delta-kor/kakao-database)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=icarus-server)](https://github.com/delta-kor/icarus-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=stream-iz-server)](https://github.com/delta-kor/stream-iz-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=k-news)](https://github.com/delta-kor/k-news)
