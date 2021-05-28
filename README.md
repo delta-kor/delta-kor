@@ -1,10 +1,10 @@
 ### 🤩 Hi! Nice to see you.
 Welcome!  
    
-![Delta's github stats](https://github-readme-stats.vercel.app/api?username=delta-kor&hide=contribs,stars&count_private=true&show_icons=true)
+![Delta's github stats](https://github-readme-stats.vercel.app/api?username=delta-kor&count_private=true&show_icons=true)
 
 ## 📚 Codes
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delta-kor&layout=compact)]()<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delta-kor&layout=compact&langs_count=10)]()<br><br>
 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
