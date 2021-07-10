@@ -15,7 +15,7 @@
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 
 ## 📋 Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=wad-iz)](https://github.com/delta-kor/wad-iz)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-message-template)](https://github.com/delta-kor/kakao-message-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=forever-iz)](https://github.com/delta-kor/forever-iz)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=wad-iz)](https://github.com/delta-kor/wad-iz)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-database)](https://github.com/delta-kor/kakao-database)
