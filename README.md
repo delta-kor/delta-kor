@@ -1,7 +1,7 @@
 ![Delta's github stats](https://github-readme-stats.vercel.app/api?username=delta-kor&count_private=true&show_icons=true)
 
 ## 📚 Codes
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delta-kor&layout=compact&langs_count=10)]()<br><br>
+![Metrics](https://metrics.lecoq.io/delta-kor?template=classic&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)<br><br>
 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
