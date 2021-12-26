@@ -1,3 +1,5 @@
+🎈 I'm not a developer
+
 ![Delta's github stats](https://github-readme-stats.vercel.app/api?username=delta-kor&count_private=true&show_icons=true)
 
 ## 📚 Codes
