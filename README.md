@@ -18,6 +18,6 @@
 
 ## 📋 Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=wad-iz)](https://github.com/delta-kor/wad-iz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=izflix)](https://github.com/delta-kor/izflix)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-message-template)](https://github.com/delta-kor/kakao-message-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=forever-iz)](https://github.com/delta-kor/forever-iz)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=izflix)](https://github.com/delta-kor/izflix)
