@@ -17,7 +17,7 @@
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 
 ## 📋 Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=wad-iz)](https://github.com/delta-kor/wad-iz)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=izflix)](https://github.com/delta-kor/izflix)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=kakao-message-template)](https://github.com/delta-kor/kakao-message-template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-kor&repo=forever-iz)](https://github.com/delta-kor/forever-iz)
+<a href="https://github.com/delta-kor/wad-iz" rel="wad-iz">![wad-iz](https://user-images.githubusercontent.com/48397257/174582725-863e59b5-57dc-45fa-aa17-a7f306c4a467.png)</a>
+<a href="https://github.com/delta-kor/izflix" rel="izflix">![izflix](https://user-images.githubusercontent.com/48397257/174582920-e3e7bdc0-a790-4af4-860c-7db6b42f39bb.png)</a>
+<a href="https://github.com/delta-kor/forever-iz" rel="forever-iz">![forever-iz](https://user-images.githubusercontent.com/48397257/174582954-695d296d-3447-405c-b2dd-a92bb18de4d7.png)</a>
+<a href="https://github.com/delta-kor/kakao-message-template" rel="kakao-message-template">![kakao-message-template](https://user-images.githubusercontent.com/48397257/174582993-746e1f7a-1525-4e42-85d0-c3242afd3589.png)</a>
