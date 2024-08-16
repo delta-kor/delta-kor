@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/5496f1b6-68f3-40a2-beb6-e57e6e09aec4" width="320">
+<img src="https://github.com/user-attachments/assets/6dac6e81-0564-4e86-9b1a-1ade3d7bba60" width="320">
 
 ## 📋 Projects
 <a href="https://github.com/delta-kor/ma-eum" rel="ma-eum">![kakao-message-template](https://github.com/user-attachments/assets/46a7fc43-d214-4790-a802-3884441c3aa3)</a>
